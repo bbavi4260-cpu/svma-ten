@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# The Python services use only the Python 3 standard library.
